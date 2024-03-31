@@ -1,4 +1,4 @@
-MySQL kullandığım için PostgreSQL Sample Database DVD Rental yerine MySQL Sample Database ile yaptım
+MySQL kullandığım için PostgreSQL Sample Database DVD Rental yerine MySQL Sample Database ile yaptım.
 
 `Question 1:` customers tablosunda bulunan customerNumber ve customerName sütunlarındaki verileri sıralayınız.
 ```

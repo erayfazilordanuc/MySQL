@@ -1,4 +1,4 @@
-Bu repo içierisindeki mysqlsampledatabase.sql yani MySQL Sample Database kullanılmıştır
+Bu repo içierisindeki mysqlsampledatabase.sql yani MySQL Sample Database kullanılmıştır.
 
 `Question 1:` customers tablosunda bulunan contactFirstName sütunundaki isimlerden 'B' karakteri ile başlayıp 'n' karakteri ile sonlananları sıralayınız.
 ```
