@@ -1,3 +1,5 @@
+Bu repo içierisindeki mysqlsampledatabase.sql yani MySQL Sample Database kullanılmıştır 
+
 `Question 1:` customers tablosunda bulunan tüm sütunlardaki verileri customerNumber değeri 141 dan büyük eşit ve 177 küçük olma koşuluyla sıralayınız.
 ```
     SELECT * FROM customers WHERE customerNumber BETWEEN 141 AND 177;
