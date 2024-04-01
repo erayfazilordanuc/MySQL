@@ -12,7 +12,7 @@ Bu repo içierisindeki mysqlsampledatabase.sql yani MySQL Sample Database kullan
 ```
     SELECT customerName FROM classicmodels.customers WHERE customerName LIKE "%T%T%T%T%";
 ```
-`Question 3:` customer tablosunda bulunan tüm sütunlardaki verilerden city 'C' karakteri ile başlayan ve uzunluğu 9'dan büyük olan ve customerNumber değeri 161'ten uzun olan verileri sıralayınız.
+`Question 4:` customer tablosunda bulunan tüm sütunlardaki verilerden city 'C' karakteri ile başlayan ve uzunluğu 9'dan büyük olan ve customerNumber değeri 161'ten uzun olan verileri sıralayınız.
 ```
     SELECT * FROM classicmodels.customers WHERE city LIKE "C________%" AND customerNumber > 161;
 ```
